@@ -1,1 +1,7 @@
-# Power-BI-Projects
+Power BI is a business analytics solution that visualize our data and share insights across the organization, or embed them in an app or website.
+Steps to create a Power BI Visualization
+Step 1:  **Identify the data sources** --  To begin with, identify the data sources we want to use in Power BI and make sure they apply to all possible systems in our company. It is worth knowing that Microsoft Power BI allows us to connect to various data sources, including Excel, SQL Server, CRM systems, social media, and cloud-based data sources.
+Step 2: **Set up a data model** -- Set up an account in the Power BI service and create the data model that will be used to represent the data in Power BI. This includes, for example, steps such as defining tables, columns, relationships, and measures.
+Step 3: **Create visualisations** -- Once connected to the data, we can create a report by dragging and dropping selected fields in the report. We can also use the visualisation dashboard to add charts, tables, and other visualisations to make our data more readable and help us make business decisions.
+Step 4: **Sharing your dashboard** -- In Power BI, we can also share our dashboard with others so they can access and interact with our data. Power BI allows us to share our report with colleagues and business partners by publishing it online or sharing it with specific people. We can also share multiple reports simultaneously to speed up analysis.
+Step 5: **Monitor and analyse your data** -- Microsoft Power BI can also be used to monitor and analyse our data over time. This will help us to identify trends and make more informed decisions.
